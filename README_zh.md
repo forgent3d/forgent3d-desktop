@@ -30,7 +30,7 @@
 </p>
 
 > [!IMPORTANT]
-> **这个桌面应用进入维护模式：bug 还会修，但不再加新功能。** 推荐改用 **[forgent3d-skills](https://github.com/forgent3d/forgent3d-skills)**：一个 agent skill，让 Claude Code、Codex、Cursor 等编程 Agent 直接生成、预览、测量 build123d 或 OpenSCAD 零件，并导出 STEP / STL / 3MF。
+> **这个桌面应用进入维护模式：bug 还会修，但不再加新功能。** 推荐改用 **[forgent3d-skills](https://github.com/forgent3d/forgent3d-skills)**，轻量得多：不用下载安装 300 多 MB 的桌面应用，一条命令把 skill 装进你已经在用的编程 Agent（Claude Code、Codex、Cursor 等），就能生成、预览、测量 build123d 或 OpenSCAD 零件，并导出 STEP / STL / 3MF。
 >
 > ```
 > npx skills add forgent3d/forgent3d-skills

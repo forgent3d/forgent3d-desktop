@@ -30,7 +30,7 @@
 </p>
 
 > [!IMPORTANT]
-> **This desktop app is in maintenance mode: bugs still get fixed, but no new features are coming.** We recommend **[forgent3d-skills](https://github.com/forgent3d/forgent3d-skills)** instead: one agent skill that lets Claude Code, Codex, Cursor and other coding agents build, preview and measure build123d or OpenSCAD parts and export them to STEP / STL / 3MF.
+> **This desktop app is in maintenance mode: bugs still get fixed, but no new features are coming.** We recommend **[forgent3d-skills](https://github.com/forgent3d/forgent3d-skills)** instead. It's much lighter: no 300+ MB app to download and install, just one command that adds a skill to the coding agent you already use (Claude Code, Codex, Cursor, …). Your agent can then build, preview and measure build123d or OpenSCAD parts and export them to STEP / STL / 3MF.
 >
 > ```
 > npx skills add forgent3d/forgent3d-skills
