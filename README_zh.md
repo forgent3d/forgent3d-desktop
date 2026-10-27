@@ -29,6 +29,15 @@
   <a href="https://github.com/forgent3d/forgent3d/releases">发布版</a>
 </p>
 
+> [!IMPORTANT]
+> **这个桌面应用已基本停止维护。** 推荐改用 **[forgent3d-skills](https://github.com/forgent3d/forgent3d-skills)**：一个 agent skill，让 Claude Code、Codex、Cursor 等编程 Agent 直接生成、预览、测量 build123d 或 OpenSCAD 零件，并导出 STEP / STL / 3MF。
+>
+> ```
+> npx skills add forgent3d/forgent3d-skills
+> ```
+>
+> 已发布的版本仍可下载，但不再更新或修复。
+
 Forgent3D 是一个独立项目，探索当编程 Agent 能在本地生成、重建、检查并修改真实几何时，CAD 工作流会变成什么样。
 
 可以直接从 Releases 下载桌面应用。发布包内置 CAD 运行时，不需要手动配置 Python 或 build123d 就能开始使用。

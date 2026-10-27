@@ -29,6 +29,15 @@
   <a href="https://github.com/forgent3d/forgent3d/releases">Releases</a>
 </p>
 
+> [!IMPORTANT]
+> **This desktop app is no longer actively maintained.** Use **[forgent3d-skills](https://github.com/forgent3d/forgent3d-skills)** instead: one agent skill that lets Claude Code, Codex, Cursor and other coding agents build, preview and measure build123d or OpenSCAD parts and export them to STEP / STL / 3MF.
+>
+> ```
+> npx skills add forgent3d/forgent3d-skills
+> ```
+>
+> Existing releases stay downloadable, but won't get updates or fixes.
+
 Forgent3D is an independent project exploring what CAD workflows look like when coding agents can generate, rebuild, inspect, and revise real geometry locally.
 
 Download the desktop app from Releases. The bundled build includes the CAD runtime, so you can start without setting up Python or build123d manually.
